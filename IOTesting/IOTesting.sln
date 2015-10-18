@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOTextFiles", "IOTextFiles\IOTextFiles.csproj", "{8FAE44F0-D9F3-48E6-9509-1A28B966948B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOXMLFiles", "IOXMLFiles\IOXMLFiles.csproj", "{3BE98E8B-EE47-42AF-8FE0-BB20C410AFFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE98E8B-EE47-42AF-8FE0-BB20C410AFFE}.Debug|x86.ActiveCfg = Debug|x86
+		{3BE98E8B-EE47-42AF-8FE0-BB20C410AFFE}.Debug|x86.Build.0 = Debug|x86
+		{3BE98E8B-EE47-42AF-8FE0-BB20C410AFFE}.Release|x86.ActiveCfg = Release|x86
+		{3BE98E8B-EE47-42AF-8FE0-BB20C410AFFE}.Release|x86.Build.0 = Release|x86
+		{8FAE44F0-D9F3-48E6-9509-1A28B966948B}.Debug|x86.ActiveCfg = Debug|x86
+		{8FAE44F0-D9F3-48E6-9509-1A28B966948B}.Debug|x86.Build.0 = Debug|x86
+		{8FAE44F0-D9F3-48E6-9509-1A28B966948B}.Release|x86.ActiveCfg = Release|x86
+		{8FAE44F0-D9F3-48E6-9509-1A28B966948B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
